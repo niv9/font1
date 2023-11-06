@@ -1,0 +1,46 @@
+body{
+    font-size: 25px;
+    background: linear-gradient(blue,orange,red,white,yellow,green,brown,pink,grey)
+}
+
+h3{
+    color: blue;
+    box-shadow: 5px 5px 5px orange;
+    font-size: 40px;
+
+
+}
+
+
+.Note{
+    font-style: italic;
+    font-weight: bolder;
+    color: rgb(195, 60, 14);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+}
+
+.clas{
+    width:100%;
+    border-radius: 20%;
+    font-size: 20px;
+
+}
+
+.copy_right_footer{
+    font-size: 20px;
+    color:orange;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    position: fixed;
+    
+}
+
+canvas,video{
+    border: 5px solid rgb(27, 25, 25);
+    box-shadow: 5px 5px 5px white;
+    border-radius: 20px;
+    background-color: white;
+
+}
